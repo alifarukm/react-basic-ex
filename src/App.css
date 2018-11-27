@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  width: 100%;
+}
+
+.Basket {
+  bottom: 160px;
+  left: 200px;
+}
+
+.Button {
+  bottom: 240px;
+  position: relative;
+}

@@ -1,0 +1,7 @@
+.Apple {
+  width: 2%;
+  height: 2%;
+  margin: auto;
+  position: absolute;
+  z-index: 999;
+}
